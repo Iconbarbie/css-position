@@ -1,0 +1,19 @@
+body {
+    background-color: brown;
+}
+    
+div {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 20px;
+    margin-right: 40px;
+    margin-top: 50px;
+}
+
+h1 {
+    font-style: italic;
+    color: white;
+    background-color: rebeccapurple;
+    padding: 10px;
+    box-shadow: 4px, 7px, 11px, rgba (240, 49, 49, 0.3);
+}
